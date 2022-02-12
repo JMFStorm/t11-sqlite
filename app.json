@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "t11-sqlite",
-    "slug": "t11-sqlite",
+    "name": "t11-sqlite-Janne-F",
+    "slug": "t11-sqlite-janne-f",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
